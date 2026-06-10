@@ -30,7 +30,7 @@ jobs:
         cd src/product-catalog
         go test ./...
     
-  Code Quality:
+  Code-Quality:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
