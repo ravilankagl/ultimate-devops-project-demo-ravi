@@ -1,0 +1,2 @@
+obj/Debug/net8.0/osx-x64/Demo.cs \
+obj/Debug/net8.0/osx-x64/DemoGrpc.cs: ../../../pb/demo.proto
