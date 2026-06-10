@@ -4,11 +4,11 @@ name: product-catalogue-ci
 on:
   push:
     branches:
-      - main
+    #  - main
       - ci-check
   pull_request:
     branches: 
-      - main
+    #  - main
       - ci-check
 jobs:
   Build:
